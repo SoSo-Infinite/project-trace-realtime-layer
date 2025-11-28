@@ -18,4 +18,4 @@ Firebase/Firestore (Real-Time onSnapshot listener)
 
 Tailwind CSS (Styling)
 
-Back to the main Architectural Manifesto: [Your Profile Link]
+Back to the main Architectural Manifesto: [(https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)]
